@@ -113,7 +113,12 @@
     border: 3px solid var(--purple)
 }
 
-
+.min-4vh{
+    min-height: 4vh !important;
+}
+.bg-light-1{
+    background-color: var(--light-grey);
+}
 .home-bg {
     background-image: url(../images/section-main.png);
     background-size: cover;
